@@ -1,0 +1,17 @@
+body{
+  background-color: lightblue;
+}
+li{
+  border: solid 1px;
+  margin: 0 0 2px 0;
+}
+a:link{
+  color: blue;
+}
+
+a:visited{
+  color: orangered;
+}
+a{
+  text-decoration: none;
+}
